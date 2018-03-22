@@ -2,23 +2,25 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #999;
+	background-color: rgb(23, 55, 97);
 	font-size: 62.5%;
 }
-header,
-main,
-footer {
-	background-color: #ddd;
-	font-size: 1.6em;
-}
-header {
-	padding: 1.875em 0;
-}
-header h1 {
+
+h1 {
 	font-family: cursive;
 	color: goldenrod;
 }
+
+header {
+	padding: 1.875em 0;
+}
+
 p1, p2, p3 {
 	font-family: cursive;
-	color: navy;
+	color: cadetblue;
+}
+
+footer {
+	background-color: rgb(20, 45, 82);
+	font-size: 1.6em;
 }
