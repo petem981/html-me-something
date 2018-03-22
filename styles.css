@@ -3,7 +3,7 @@ body {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: rgb(23, 55, 97);
-	font-size: 62.5%;
+	font-size: 20px;
 }
 
 h1 {
@@ -19,7 +19,10 @@ p1, p2, p3 {
 	font-family: cursive;
 	color: cadetblue;
 }
-
+img {
+	height: 600px;
+	width: 840px;
+}
 footer {
 	background-color: rgb(20, 45, 82);
 	font-size: 1.6em;
