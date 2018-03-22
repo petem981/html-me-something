@@ -1,4 +1,20 @@
-h1 {
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #999;
+	font-size: 62.5%;
+}
+header,
+main,
+footer {
+	background-color: #ddd;
+	font-size: 1.6em;
+}
+header {
+	padding: 1.875em 0;
+}
+header h1 {
 	font-family: cursive;
 	color: goldenrod;
 }
